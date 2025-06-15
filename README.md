@@ -4,35 +4,28 @@ Welcome to my personal portfolio website! This project showcases my skills, expe
 
 ## 🚀 Live Demo
 
-👉 [View Live Website](https://your-portfolio-link.com)
+👉 [View Live Website](https://github.com/hs17hemant/Protfolio_Website.git)
 
-## 📸 Preview
-
-![Screenshot](screenshot.png)  
-*Add a screenshot of your site above to give a quick visual preview.*
 
 ## 🛠️ Built With
 
-- HTML5 / CSS3  
-- JavaScript / React.js / Next.js *(modify based on what you used)*  
-- [Your CSS framework, e.g., Tailwind CSS / Bootstrap]  
+- HTML5 / CSS3 / JavaScript
 - Git & GitHub for version control  
 - [Other libraries or tools like Framer Motion, GSAP, etc.]
 
 ## 📂 Features
 
-- 🧑 About Me section  
-- 🛠️ Skills and Technologies  
-- 📁 Project Showcase with GitHub links  
-- 📞 Contact form or contact details  
-- 🌙 Dark Mode *(if available)*  
+- About
+- Email
+- Linkedin
+- Github
 
 ## 📌 Getting Started
 
 To run the project locally:
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/hs17hemant/Protfolio_Website.git
 cd your-repo-name
 npm install
 npm start
