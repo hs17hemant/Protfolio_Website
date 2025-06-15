@@ -4,7 +4,7 @@ Welcome to my personal portfolio website! This project showcases my skills, expe
 
 ## 🚀 Live Demo
 
-👉 [View Live Website](https://github.com/hs17hemant/Protfolio_Website.git)
+👉 [View Live Website](https://hs17hemant.github.io/Protfolio_Website/)
 
 
 ## 🛠️ Built With
